@@ -1,0 +1,31 @@
+const GamingUSD = artifacts.require('GamingUSD');
+const GamingAUD = artifacts.require('GamingAUD');
+const GamingEUR = artifacts.require('GamingEUR');
+const GamingCAD = artifacts.require('GamingCAD');
+const GamingCHF = artifacts.require('GamingCHF');
+const GamingAED = artifacts.require('GamingAED');
+const GamingNZD = artifacts.require('GamingNZD');
+const GamingGBP = artifacts.require('GamingGBP');
+const GamingJPY = artifacts.require('GamingJPY');
+const GamingCNY = artifacts.require('GamingCNY');
+const GamingRUB = artifacts.require('GamingRUB');
+const GamingRSD = artifacts.require('GamingRSD');
+const GamingZAR = artifacts.require('GamingZAR');
+const GamingINR = artifacts.require('GamingINR');
+
+module.exports = async function (deployer, network, accounts) {  
+  deployer.deploy(GamingUSD);
+  deployer.deploy(GamingAUD);
+  deployer.deploy(GamingEUR);
+  deployer.deploy(GamingCAD);
+  deployer.deploy(GamingCHF);
+  deployer.deploy(GamingAED);
+  deployer.deploy(GamingNZD);
+  deployer.deploy(GamingGBP);
+  deployer.deploy(GamingJPY);
+  deployer.deploy(GamingCNY);
+  deployer.deploy(GamingRUB);
+  deployer.deploy(GamingRSD);
+  deployer.deploy(GamingZAR);
+  deployer.deploy(GamingINR);
+};
