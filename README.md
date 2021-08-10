@@ -21,5 +21,5 @@ tRSD 	- 0x53f8093b4e7cad6620333Bc6eC5D8DdeB064c68D<br>
 tZAR 	- 0xA51f13C8B056C7E01aE8739e5cd880C5D214Ccc5<br>
 tINR 	- 0xd2Fcf31f92cfeFFf8D84B4aEb16D9ceDa378A948<br>
 <br>
-*Initial minted amount is 1.000.000 for each of tokens
-Deploy is done from 0x9282c0A5B64D718De9438D469b256D74CF24D36f
+*Initial minted amount is 1.000.000 for each of tokens<br>
+Deploy is done by 0x9282c0A5B64D718De9438D469b256D74CF24D36f
