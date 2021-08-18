@@ -7,6 +7,9 @@ https://github.com/OpenZeppelin/openzeppelin-contracts
 Wrapped Ether deployed at TSF TestNet>
 WETH 	- 0xBF98488F40528528b3cfc0C7991f952BDB7Bf237<br>
 
+Wrapped TSF deployed at TSF TestNet>
+WTSF 	- 0x7ffF9bdd0f60f17c171296B048552D7D47ea6763<br>
+
 Tokens deployed at TSF TestNet>
 
 tUSD 	- 0xF0f97d7E53232401BBd802016C10B85DC7385D26<br>
